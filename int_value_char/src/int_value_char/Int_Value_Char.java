@@ -57,7 +57,7 @@ public class Int_Value_Char {
 		System.out.printf("This character %s has an integer value of %d%n", 'A', lettera);
 		System.out.printf("This character %s has an integer value of %d%n", 'B', letterb);
 		System.out.printf("This character %s has an integer value of %d%n", 'C', letterc);
-		System.out.printf("This character %s has an integer value of %d%n", 'A', letterA);
+		System.out.printf("This character %s has an integer value of %d%n", 'a', letterA);
 		System.out.printf("This character %s has an integer value of %d%n", 'b', letterB);
 		System.out.printf("This character %s has an integer value of %d%n", 'c', letterC);
 		System.out.printf("This character %s has an integer value of %d%n", '0', numZero);
