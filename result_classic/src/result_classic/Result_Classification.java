@@ -42,13 +42,14 @@ public class Result_Classification {
 			System.out.println("Your year mark is: " + year_mark);
 		}
 		else {
-			System.out.print("You fail the module");
+			System.out.print("You fail exam entrance for the module");
 		}
 		if(final_mark > 50) {
 			System.out.print("Your final mark is: " + final_mark + "\n");
 			System.out.print("You made it baby, You pass the module");
 		}
 		else {
+			System.out.print("You did not meet the exam entrance minimum,");
 			System.out.print("You fail the module");
 		}
 		

@@ -6,8 +6,6 @@ public class Voting {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// Student name: Obakeng Mothibedi
-		//Student number: 74301004
 		Scanner input = new Scanner(System.in);
 		
 		//Variable
